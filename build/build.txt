@@ -1,6 +1,6 @@
 Path=C:\ProgramData\HaPPy_
-Setup=main.vbs
-Presetup=kill.bat
+Setup=run.bat
 Silent=1
 Overwrite=2
 Update=U
+Shortcut=D, C:\ProgramData\HaPPy_\run.bat, , "run happy", HAPPY, C:\ProgramData\HaPPy_\DATA\icon.ico
